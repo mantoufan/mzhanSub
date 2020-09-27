@@ -1,587 +1,601 @@
 ﻿1
-00:00:03,929 --> 00:00:08,290
-在今天的节目中
-我们将澄清关于新底盘的一些信息
+00:00:00,140 --> 00:00:02,500
+警告：该视频可能会引起光敏性癫痫(PSE)发作
+建议观众酌情考虑
 
 2
-00:00:08,290 --> 00:00:13,700
-公布疯狂周末活动
-公布一些密码
+00:00:02,500 --> 00:00:03,900
+3D坦克周报第272期
 
 3
+00:00:03,929 --> 00:00:08,290
+在今天的节目中
+我们将澄清关于新底盘的信息
+
+4
+00:00:08,290 --> 00:00:13,700
+公布疯狂周末活动
+隐藏一个密码在节目里
+
+5
 00:00:16,020 --> 00:00:17,359
 坦克手们，大家好
 
-4
+6
 00:00:17,359 --> 00:00:20,580
-周六，我们的新底盘出现在游戏中
+周六，我们的新底盘
+出现在游戏中
 
-5
+7
 00:00:20,580 --> 00:00:23,220
 当然，这引起了大家很多疑问
 
-6
-00:00:23,220 --> 00:00:27,140
-所以，我们决定对底盘的变化进行了一个小的分析
-
-7
-00:00:27,140 --> 00:00:31,260
-showing some not very obvious points and giving a
-couple of tips.
-
 8
-00:00:31,260 --> 00:00:35,880
-First and most importantly, we have changed
-the system of kill zones on maps.
+00:00:23,220 --> 00:00:27,140
+所以，我们决定对底盘的变化
+进行一个小的分析
 
 9
-00:00:35,890 --> 00:00:38,700
-This means that now you can be on the roofs
-of buildings,
+00:00:27,140 --> 00:00:31,260
+展示一些不太明显的观点
+并给出一些建议
 
 10
-00:00:38,700 --> 00:00:40,510
-edges on the border of the map
+00:00:31,260 --> 00:00:35,880
+首先也是最重要的
+我们改变了地图上的战场区域
 
 11
-00:00:40,510 --> 00:00:44,350
-and even fly over areas that were previously
-inaccessible.
+00:00:35,890 --> 00:00:38,700
+这意味着
+现在可以在建筑物的屋顶上
 
 12
-00:00:44,350 --> 00:00:47,700
-But remember that landing outside the map
-leads to death.
+00:00:38,700 --> 00:00:40,510
+地图的边界上
 
 13
-00:00:47,700 --> 00:00:51,700
-All this will bring a new look at the familiar
-game modes and maps.
+00:00:40,510 --> 00:00:44,350
+甚至飞越以前无法进入的地区
 
 14
-00:00:51,700 --> 00:00:54,719
-The second point directly concerns the overdrive.
+00:00:44,350 --> 00:00:47,700
+但是请记住，在地图外落地
+会导致死亡
 
 15
-00:00:54,719 --> 00:00:57,850
-The hull jumps due to the jet engine on the
-bottom.
+00:00:47,700 --> 00:00:51,700
+所有这些都将带来
+一个是新的熟悉的游戏模式和地图
 
 16
-00:00:57,850 --> 00:01:00,780
-Because of this, the tank is not just jumping
-vertically,
+00:00:51,700 --> 00:00:54,719
+另一个与超速相关
 
 17
-00:01:00,780 --> 00:01:03,900
-but also takes your current velocity into account.
+00:00:54,719 --> 00:00:57,850
+底盘的跳跃动力
+来自喷气式发动机
 
 18
-00:01:03,900 --> 00:01:07,620
-That is, if you activate the overdrive on
-takeoff as you are driving,
+00:00:57,850 --> 00:01:00,780
+因此，坦克
+不仅仅是跳跃的
 
 19
-00:01:07,620 --> 00:01:10,000
-you will fly much further.
+00:01:00,780 --> 00:01:03,900
+也要考虑到你当前的速度
 
 20
-00:01:10,000 --> 00:01:15,049
-In this case, you can activate the jump while
-falling into an abyss and save your life.
+00:01:03,900 --> 00:01:07,620
+也就是说，如果您在驾驶时
+激活了超速档开关
 
 21
-00:01:15,049 --> 00:01:17,980
-Also, if you catch a nuclear energy box in
-the flight,
+00:01:07,620 --> 00:01:10,000
+你可以飞得更远
 
 22
-00:01:17,980 --> 00:01:23,150
-you can double jump by activating your overdrive again while airborne.
+00:01:10,000 --> 00:01:15,049
+在这种情况下，你可以在即将陷入深渊的时候
+激活超速功能，这将拯救您的生命
 
 23
-00:01:23,150 --> 00:01:26,480
-In flight, the tank retains control even when
-hit.
+00:01:15,049 --> 00:01:17,980
+另外，如果你在飞行中
+发现了一个核能箱
 
 24
-00:01:26,480 --> 00:01:29,950
-So you can not only make kills in the air,
-but also on the ground.
+00:01:17,980 --> 00:01:23,150
+你可以在空中直接激活超速技能
+实现二次跳跃
 
 25
-00:01:29,950 --> 00:01:34,360
-Now, goldbox hunting with Hopper has been
-taken to the next level.
+00:01:23,150 --> 00:01:26,480
+在飞行中，即使被击中
+坦克也可以保持控制
 
 26
-00:01:34,360 --> 00:01:36,070
-Don't think it's an overpowered hull.
+00:01:26,480 --> 00:01:29,950
+所以你不仅可以在空中击毁坦克
+还可以在地面上击毁坦克
 
 27
-00:01:36,070 --> 00:01:38,780
-It's light, so it cannot take much damage.
+00:01:29,950 --> 00:01:34,360
+现在，与Hopper一起寻找金水晶活动
+已经进入了一个新阶段
 
 28
-00:01:38,780 --> 00:01:43,240
-It is slower than the other light hulls and
-although it accelerates a bit faster,
+00:01:34,360 --> 00:01:36,070
+别以为这是一艘超动力的底盘
 
 29
-00:01:43,240 --> 00:01:46,500
-it still can't escape from Wasp by jumping from a bomb.
+00:01:36,070 --> 00:01:38,780
+它很轻，所以不会受到
+太大的伤害
 
 30
-00:01:46,500 --> 00:01:52,619
-But it does not matter, the most important
-question is if you put a Wasp on top of Hopper,
+00:01:38,780 --> 00:01:43,240
+它比其他底盘慢
+但是它加速得更快一些
 
 31
-00:01:52,619 --> 00:01:53,900
-will it still jump?
+00:01:43,240 --> 00:01:46,500
+它仍然无法摆脱黄蜂坦克的核弹
 
 32
-00:01:59,979 --> 00:02:02,260
-The discount weekend has already begun.
+00:01:46,500 --> 00:01:52,619
+但是这没关系，最重要的问题是
+如果你把黄蜂放在Hopper上
 
 33
-00:02:02,260 --> 00:02:05,480
-Today, we have a 25 percent discount in the
-Shop;
+00:01:52,619 --> 00:01:53,900
+它还能跳吗？
 
 34
-00:02:05,480 --> 00:02:10,340
-tomorrow, the same discounts will be applied on Garage items, and on Sunday,
+00:01:59,979 --> 00:02:02,260
+疯狂周末促销活动已经开始
+（外服活动）
 
 35
-00:02:10,340 --> 00:02:14,456
-you will be able to upgrade your garage with a 25 percent discount
+00:02:02,260 --> 00:02:05,480
+今天，现金商店物品
+打75折
 
 36
-00:02:14,456 --> 00:02:17,200
-and speed the upgrade up for half the price.
+00:02:05,480 --> 00:02:10,340
+明天，周末，车库物品打折
 
 37
-00:02:17,200 --> 00:02:21,060
-During the discount weekend, we will have
-boosted battle funds and experience.
+00:02:10,340 --> 00:02:14,456
+你可以用25%折扣升级你的车库
 
 38
-00:02:21,060 --> 00:02:24,020
-We will also have a special offer in the Shop
+00:02:14,456 --> 00:02:17,200
+以一半的价格加速升级
 
 39
-00:02:24,020 --> 00:02:30,180
-that contains the Hopper hull, Heat and Cold Resistance augments, and 100 Ultra Containers.
+00:02:17,200 --> 00:02:21,060
+整个周末
+战场奖励和经验值获取速度提升
 
 40
-00:02:30,180 --> 00:02:33,060
-Ultra Containers will be available during
-the weekend;
+00:02:21,060 --> 00:02:24,020
+我们还将在现金商店里
+提供特价促销
 
 41
-00:02:33,060 --> 00:02:37,520
-don’t hesitate to buy a few because you know what might “jump” out of them.
+00:02:24,020 --> 00:02:30,180
+包括Hopper底盘、耐热和耐寒增强参数
+以及100个究极容器
 
 42
-00:02:39,620 --> 00:02:43,160
-We have recently released an update that brought
-the auto-shooting mode
+00:02:30,180 --> 00:02:33,060
+究极容器将在整个周末期间提供
 
 43
-00:02:43,160 --> 00:02:45,109
-to the mobile version of the game.
+00:02:33,060 --> 00:02:37,520
+不要犹豫啦
+这是获得能跳跃的底盘的好方法
 
 44
-00:02:45,109 --> 00:02:47,879
-The background of this update is not that
-confusing.
+00:02:39,620 --> 00:02:43,160
+我们最近发布了一个更新
+带来了自动射击模式
+（Aleksandra Agapova，社区经理）
 
 45
-00:02:47,879 --> 00:02:50,060
-During the last few years,
+00:02:43,160 --> 00:02:45,109
+发布到了移动版游戏中
 
 46
-00:02:50,060 --> 00:02:53,859
-we have been actively
-working on the mobile version of the game
+00:02:45,109 --> 00:02:47,879
+此次更新的背景没有那么复杂
 
 47
-00:02:53,859 --> 00:02:57,299
-and analysing the feedback we were receiving
-from you.
+00:02:47,879 --> 00:02:50,060
+在过去的几年里
 
 48
-00:02:57,299 --> 00:03:00,949
-The mobile controls were the main problem
-for many of you.
+00:02:50,060 --> 00:02:53,859
+我们一直在积极开发这款游戏的移动版本
 
 49
-00:03:00,949 --> 00:03:02,740
-By adding the auto-shooting mode,
+00:02:53,859 --> 00:02:57,299
+分析大家给我们的反馈
 
 50
-00:03:02,740 --> 00:03:05,780
-we intended
-to make it easier for you to control your tank
+00:02:57,299 --> 00:03:00,949
+移动版的操控是你们很多人有问题的
 
 51
-00:03:05,780 --> 00:03:09,349
-as it removes shooting from the equation
-with this feature enabled.
+00:03:00,949 --> 00:03:02,740
+通过增加自动射击模式
 
 52
-00:03:09,349 --> 00:03:14,409
-However, after the update, some of you asked
-us to have an option to disable this mode,
+00:03:02,740 --> 00:03:05,780
+我们想让你更容易控制你的坦克
 
 53
-00:03:14,409 --> 00:03:15,790
-and that’s what we did.
+00:03:05,780 --> 00:03:09,349
+当功能被激活后
+瞄准按钮消失
 
 54
-00:03:15,790 --> 00:03:18,779
-Most of the complaints are about the Railgun
-turret.
+00:03:09,349 --> 00:03:14,409
+但是，在更新之后
+你们中的一些人要求我们取消该模式
 
 55
-00:03:18,779 --> 00:03:20,500
-You thought that the auto shooting mode
+00:03:14,409 --> 00:03:15,790
+我们也在改进
 
 56
-00:03:20,500 --> 00:03:24,459
-would let you start charging your railgun even before you see an opponent.
+00:03:15,790 --> 00:03:18,779
+大多数的抱怨来自激光炮
+（Ivan Naumov，游戏设计师）
 
 57
-00:03:24,459 --> 00:03:28,059
-And actually you can do this, but it must
-be done manually.
+00:03:18,779 --> 00:03:20,500
+自动射击模式
 
 58
-00:03:28,059 --> 00:03:30,310
-Just simply double-tap on the screen.
+00:03:20,500 --> 00:03:24,459
+让你在看到对手前
+就开始自动蓄能
 
 59
-00:03:30,310 --> 00:03:35,650
-For continuous shooting, you will have to
-hold your finger on the screen after double-tapping.
+00:03:24,459 --> 00:03:28,059
+什么时候射击
+更适合玩家自己把握
 
 60
-00:03:35,650 --> 00:03:38,230
-Some turrets will still have the shooting
-button.
+00:03:28,059 --> 00:03:30,310
+只需要双击屏幕即可
 
 61
-00:03:38,230 --> 00:03:41,079
-Not that old one, but a new switch one.
+00:03:30,310 --> 00:03:35,650
+连续射击时，你需要在双击后
+将手指按在屏幕上不放
 
 62
-00:03:41,079 --> 00:03:44,930
-When it’s on, this button will be holding
-a finger on the screen for you.
+00:03:35,650 --> 00:03:38,230
+一些炮塔仍将保留射击按钮
 
 63
-00:03:44,930 --> 00:03:46,420
-This is much more comfortable
+00:03:38,230 --> 00:03:41,079
+不是原来的射击按钮
+而是全新的
 
 64
-00:03:46,420 --> 00:03:48,020
-than the old
-method of firing
+00:03:41,079 --> 00:03:44,930
+启用时，此按钮
+将为您在屏幕上按住一个手指
 
 65
-00:03:48,020 --> 00:03:50,930
-with the button held on such turrets as Vulcan or Twins.
+00:03:44,930 --> 00:03:46,420
+这样舒服多了
 
 66
-00:03:50,930 --> 00:03:53,340
-We will continue to follow your feedback
+00:03:46,420 --> 00:03:48,020
+比起旧的射击方法来说
 
 67
-00:03:53,340 --> 00:03:57,620
-to make it as comfortable as possible for both new and old players.
+00:03:48,020 --> 00:03:50,930
+让极速炮或者离子炮连续射击
+只需按住按钮即可
 
 68
-00:04:00,220 --> 00:04:03,859
-We will hide special codes in the next episodes
-of the V-LOG.
+00:03:50,930 --> 00:03:53,340
+我们仍将继续关注您的反馈
 
 69
-00:04:03,859 --> 00:04:07,689
-Your task is to find them and send them through
-a form in the description.
+00:03:53,340 --> 00:03:57,620
+让心老玩家都尽可能舒服一些
 
 70
-00:04:07,689 --> 00:04:11,459
-Answers should be submitted to this form,
-not in the comments.
+00:04:00,220 --> 00:04:03,859
+我们将在下一期周报中隐藏特殊代码
 
 71
-00:04:11,460 --> 00:04:13,300
-The winner of this contest will receive
+00:04:03,859 --> 00:04:07,689
+你的任务是找到它们
+并通过视频描述中的表格发给我们
 
 72
-00:04:13,300 --> 00:04:18,000
-the fully upgraded Hopper Hull in the maximum modification available for the winner's rank,
+00:04:07,689 --> 00:04:11,459
+答案应提交到此表格
+而不是评论中
 
 73
-00:04:18,000 --> 00:04:21,920
-200 000 crystals, and 30 containers.
+00:04:11,460 --> 00:04:13,300
+本次比赛的获胜者将获得
 
 74
-00:04:21,920 --> 00:04:28,540
-Second place will receive the Crisis drone,
-150 000 crystals, and 20 containers.
+00:04:13,300 --> 00:04:18,000
+玩家军衔可用的
+最大强化等级的Hopper底盘
 
 75
-00:04:28,540 --> 00:04:33,759
-Third place will receive an animated paint
-(except those available only in special bundles)
+00:04:18,000 --> 00:04:21,920
+20万水晶和30个容器
 
 76
-00:04:33,759 --> 00:04:37,650
-70,000 crystals, and 10 containers.
+00:04:21,920 --> 00:04:28,540
+第二名可以获得Crisis无人机
+15万颗水晶和20个集装箱
 
 77
-00:04:37,650 --> 00:04:42,582
-Anyone who placed between 4th and 13th will
-each receive 5 containers
+00:04:28,540 --> 00:04:33,759
+第三名将收到动画迷彩
+（除了在特殊礼包中出售的动画迷彩外）
 
 78
-00:04:42,582 --> 00:04:44,940
-and 20 000 crystals each.
+00:04:33,759 --> 00:04:37,650
+70万水晶和10个容器
 
 79
-00:04:44,940 --> 00:04:47,240
-Look carefully and do not be distracted
+00:04:37,650 --> 00:04:42,582
+第4到第13名
+每人可以获得5个容器
 
 80
-00:04:47,240 --> 00:04:51,380
-because both speed and accuracy determine the winner of this contest.
+00:04:42,582 --> 00:04:44,940
+每人20万水晶
 
 81
-00:04:51,400 --> 00:04:56,320
-The first code is already hidden somewhere
-in this video, so good luck and get going!
+00:04:44,940 --> 00:04:47,240
+仔细看，不要分心
 
 82
-00:04:58,860 --> 00:05:05,500
-Welcome back to Youtuber Digest, our weekly
-selection of best TO videos created by players.
+00:04:47,240 --> 00:04:51,380
+因为速度和准确性
+决定了这场比赛的胜利者
 
 83
-00:05:05,500 --> 00:05:09,800
-First, watch Jumper as he creates a goldbox
-montage
+00:04:51,400 --> 00:04:56,320
+第一个代码已经隐藏到这个视频的某个地方
+所以祝你好运，开始吧！
 
 84
-00:05:09,800 --> 00:05:13,789
-entirely from our limited time event 'Hovering Railgun' mode.
+00:04:58,860 --> 00:05:05,500
+欢迎回到3D坦克每周视频展播
+我们每周精选由玩家创建的最佳视频
 
 85
-00:05:13,789 --> 00:05:15,600
-Did you enjoy this event?
+00:05:05,500 --> 00:05:09,800
+首先，观看Jumper制作的金水晶蒙太奇剪辑
 
 86
-00:05:29,120 --> 00:05:34,900
-Second, watch Jay Tanki as he shares with
-us some epic highlights from the XP/BP format.
+00:05:09,800 --> 00:05:13,789
+来自我们的限时活动“悬停激光炮”模式
 
 87
-00:05:43,410 --> 00:05:47,220
-Just a quick reminder, if you want your videos
-to be featured in a V-LOG,
+00:05:13,789 --> 00:05:15,600
+你喜欢这个活动吗？
 
 88
-00:05:47,220 --> 00:05:50,240
-then submit your videos in the YouTuber wannabe form,
+00:05:29,120 --> 00:05:34,900
+第二，观看Jay Tanki与我们分享的
+史诗级的XP/BP模式精彩瞬间
 
 89
-00:05:50,240 --> 00:05:53,700
-which can be found in the videos description.
+00:05:43,410 --> 00:05:47,220
+需要提醒一下，如果你想让
+你的视频出现在周报中
 
 90
-00:05:55,960 --> 00:06:01,260
-As expected, the new format of TOF Dream Team
-turned out to be very interesting
+00:05:47,220 --> 00:05:50,240
+请通过指定的视频作者表格发给我们
 
 91
-00:06:01,260 --> 00:06:03,659
-due to the possibility of using overdrives.
+00:05:50,240 --> 00:05:53,700
+链接在视频描述中
 
 92
-00:06:03,659 --> 00:06:08,020
-They presented completely new tactics on absolutely
-all maps.
+00:05:55,960 --> 00:06:01,260
+不出所料，TOF梦之队的新赛制非常有趣
 
 93
-00:06:08,020 --> 00:06:09,440
-By the way, about them.
+00:06:01,260 --> 00:06:03,659
+因为有可能使用超速功能
 
 94
-00:06:09,440 --> 00:06:15,510
-For the first time in eSports history, the
-Sandbox MM map was added to the map pool,
+00:06:03,659 --> 00:06:08,020
+他们几乎在所有地图上使用了全新战术
 
 95
-00:06:15,510 --> 00:06:17,800
-and it became a real discovery of the tournament
+00:06:08,020 --> 00:06:09,440
+顺便说一下
+关于他们
 
 96
-00:06:17,800 --> 00:06:21,509
-- a change of leader, quick attacks, comebacks,
+00:06:09,440 --> 00:06:15,510
+电子竞技历史上第一次
+将高地角斗场匹配赛版地图加入到可选地图中
 
 97
-00:06:21,509 --> 00:06:25,340
-surprising tactics - everything can be seen
-exactly there...
+00:06:15,510 --> 00:06:17,800
+这也成为了这场比赛的最大看点
 
 98
-00:06:25,340 --> 00:06:29,240
-The group stages are behind us and we congratulate
-the teams
+00:06:17,800 --> 00:06:21,509
+换人，快速进攻策略
+重返战场
 
 99
-00:06:29,240 --> 00:06:31,720
-and wish them the best of luck in the next round
+00:06:21,509 --> 00:06:25,340
+各种似曾相识
+却又出人意料的战术组合
 
 100
-00:06:31,720 --> 00:06:34,610
-because the playoff fights
-are waiting for them!
+00:06:25,340 --> 00:06:29,240
+小组赛已经结束
+让我们祝贺团队
 
 101
-00:06:34,610 --> 00:06:39,180
-You can watch all the most interesting battles
-as well as participate in the giveaways
+00:06:29,240 --> 00:06:31,720
+祝他们在下一轮比赛中好运
 
 102
-00:06:39,180 --> 00:06:41,759
-on the Tanki Online eSports channel.
+00:06:31,720 --> 00:06:34,610
+因为季后赛的比赛还在等着他们呢！
 
 103
-00:06:41,759 --> 00:06:46,590
-Now over to some more eSports news; this time:
-Blitz tournaments.
+00:06:34,610 --> 00:06:39,180
+你可以观看所有最有趣的战斗
+参加赠品活动
 
 104
-00:06:46,590 --> 00:06:53,289
-Blitz N23, which was held in the Hard format
-and Blitz N24, which was in the Light format,
+00:06:39,180 --> 00:06:41,759
+一切尽在3D坦克电子竞技频道
 
 105
-00:06:53,289 --> 00:06:54,410
-have ended recently.
+00:06:41,759 --> 00:06:46,590
+现在来关注电子竞技新闻
+这次是关于闪电战锦标赛的信息
 
 106
-00:06:54,410 --> 00:07:00,009
-24 teams participated in both of these tournaments,
-and they were divided into three grids.
+00:06:46,590 --> 00:06:53,289
+闪电战N23是重型底盘
+闪电战N24是轻型底盘
 
 107
-00:07:00,009 --> 00:07:02,671
-Meet the winners:
-Team Pointers and Eternity
+00:06:53,289 --> 00:06:54,410
+最近都结束了
 
 108
-00:07:02,671 --> 00:07:07,920
-- leaders of the first grid, where clans of First and Second Leagues were battling for the prize,
+00:06:54,410 --> 00:07:00,009
+24支团队参加这两场比赛
+他们被分成了3个小组
 
 109
-00:07:07,920 --> 00:07:14,689
-Knockout and Hello Kitty, who never stop entertaining
-us with excellent results for several Blitzes,
+00:07:00,009 --> 00:07:02,671
+让我们恭喜获胜者：Pointers和Eternity战队
 
 110
-00:07:14,689 --> 00:07:18,150
-Aaaaaaand OutLawz and Vertical in the third
-bracket.
+00:07:02,671 --> 00:07:07,920
+他们是第一阵营的首领
+第一和第二阵营的军团都在为奖品而战
 
 111
-00:07:18,150 --> 00:07:21,380
-Create a clan and participate in the Blitz
-tournaments
+00:07:07,920 --> 00:07:14,689
+Knockout和Hello Kitty战队
+他们在几次闪电战中都有出色的表现
 
 112
-00:07:21,380 --> 00:07:25,480
-- these are "fast" tournaments where you can win crystals, shot effects,
+00:07:14,689 --> 00:07:18,150
+Aaaaaaand OutLawz和Vertical战队在第三阵营中
 
 113
-00:07:25,480 --> 00:07:29,969
-Premium and Tankoins by participating every week.
+00:07:18,150 --> 00:07:21,380
+创建一个军团
+并参加闪电战
 
 114
-00:07:29,969 --> 00:07:35,389
-The anticipated MotS TRIO tournament with
-the coveted Impulse paint as the main prize
+00:07:21,380 --> 00:07:25,480
+比赛很快，你可以赢得
+水晶和射击效果
 
 115
-00:07:35,389 --> 00:07:36,990
-is waiting for you!
+00:07:25,480 --> 00:07:29,969
+每周参加
+赢取VIP和坦克币
 
 116
-00:07:36,990 --> 00:07:40,780
-If you have two or three comrades, who like
-to play with Railgun,
+00:07:29,969 --> 00:07:35,389
+期待中的MotS三重奏锦标赛
+以及冲动迷彩作为主要奖励
 
 117
-00:07:40,780 --> 00:07:43,830
-form a team and register for the tournament!
+00:07:35,389 --> 00:07:36,990
+在等你哦！
 
 118
-00:07:43,830 --> 00:07:45,830
-You can still apply today!
+00:07:36,990 --> 00:07:40,780
+如果你有两三个喜欢玩激光炮的朋友
 
 119
-00:07:45,830 --> 00:07:50,770
-Follow the link in the description and find
-out all the details on our eSports portal
+00:07:40,780 --> 00:07:43,830
+组队报名参加比赛吧！
 
 120
-00:07:50,770 --> 00:07:51,760
-tankisport.com.
+00:07:43,830 --> 00:07:45,830
+今天仍然可以申请哦！
 
 121
-00:07:54,360 --> 00:07:56,740
-That’s all for this week.
+00:07:45,830 --> 00:07:50,770
+请按照视频描述中的链接
+在我们的电子竞技门户网站上报名！
 
 122
-00:07:56,740 --> 00:08:00,528
-As always, like the video, subscribe, hit
-the notification bell,
+00:07:50,770 --> 00:07:51,760
+链接在视频描述中
 
 123
-00:08:00,528 --> 00:08:03,560
-and wait for some fresh news next week;
+00:07:54,360 --> 00:07:56,740
+以上是本期节目的全部内容
 
 124
-00:08:03,560 --> 00:08:05,550
-we will be announcing something
-really cool.
+00:07:56,740 --> 00:08:00,528
+与以往一样
+点赞，订阅和打开铃声通知
 
 125
-00:08:05,550 --> 00:08:06,740
-See you later.
+00:08:00,528 --> 00:08:03,560
+等待下周的新节目吧
 
 126
-00:08:06,840 --> 00:08:07,540
-BYE!
+00:08:03,560 --> 00:08:05,550
+我们将宣布一些非常酷的消息
 
 127
-00:08:14,700 --> 00:08:21,600
-Last time you had to guess which Mammoth with
-activated overdrive would destroy Ares.
+00:08:05,550 --> 00:08:06,740
+再会
 
 128
-00:08:21,610 --> 00:08:26,280
-The correct answer is: E
-Congratulations to the winners!
+00:08:06,840 --> 00:08:07,540
+再见！
 
 129
-00:08:26,280 --> 00:08:27,280
-And here is the new question.
+00:08:14,700 --> 00:08:21,600
+上期节目你需要猜猜看
+激活了超速功能的猛犸象会击毁战神吗
 
 130
-00:08:49,380 --> 00:08:51,340
-Which Wasp will survive?
+00:08:21,610 --> 00:08:26,280
+正确答案是E
+让我们恭喜获胜者！
 
+131
+00:08:26,280 --> 00:08:27,280
+再来关注新问题
+
+132
+00:08:49,380 --> 00:08:52,140
+哪一辆黄蜂会幸存？
+
+133
+00:08:52,140 --> 00:09:02,140
+M站字幕组
+感谢观看^_^
