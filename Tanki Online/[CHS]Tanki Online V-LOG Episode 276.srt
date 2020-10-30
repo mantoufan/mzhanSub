@@ -1,0 +1,575 @@
+1
+00:00:02,949 --> 00:00:04,097
+In today’s episode,
+
+2
+00:00:04,097 --> 00:00:07,720
+we will be scaring you with some spooky Halloween festivities.
+
+3
+00:00:07,799 --> 00:00:13,357
+We’ll also be launching an unprecedented
+experiment and introducing a new status effect.
+
+4
+00:00:15,971 --> 00:00:17,220
+Hello, tankers.
+
+5
+00:00:17,220 --> 00:00:21,130
+We missed you badly and are very happy to
+see you all again.
+
+6
+00:00:21,130 --> 00:00:23,410
+First off,
+Happy Halloween!
+
+7
+00:00:23,410 --> 00:00:27,730
+The festive mode is available on THREE maps,
+which are selected randomly:
+
+8
+00:00:27,730 --> 00:00:35,370
+the Graveyard map in 2015 and 2016 versions and the Highland
+map from 2013.
+
+9
+00:00:35,370 --> 00:00:37,180
+Who asked for old Tanki?
+
+10
+00:00:37,180 --> 00:00:38,180
+Here you are.
+
+11
+00:00:38,180 --> 00:00:39,180
+Enjoy!
+
+12
+00:00:39,180 --> 00:00:42,070
+Of course,
+there will be an increased gold box chance,
+
+13
+00:00:42,070 --> 00:00:44,250
+as well as boosted funds and experience.
+
+14
+00:00:44,250 --> 00:00:47,670
+Plus,
+we have prepared a lot of special missions.
+
+15
+00:00:47,670 --> 00:00:50,920
+As usual,
+you can complete them only for a limited time,
+
+16
+00:00:50,920 --> 00:00:53,820
+but a couple of them will be available for
+just one day.
+
+17
+00:00:53,820 --> 00:00:56,190
+However,
+the prize will be special.
+
+18
+00:00:56,190 --> 00:00:59,410
+You will find more information in the official
+announcement.
+
+19
+00:00:59,410 --> 00:01:03,760
+For those who’ve been waiting for sales,
+we are pleased to announce that today,
+
+20
+00:01:03,760 --> 00:01:06,990
+we have a 30% discount on any item in the
+Shop,
+
+21
+00:01:06,990 --> 00:01:10,340
+tomorrow everything in the garage will be
+30% off,
+
+22
+00:01:10,340 --> 00:01:14,939
+and on Sunday,
+you can micro-upgrade your new equipment at a 30% discount,
+
+23
+00:01:14,939 --> 00:01:17,640
+and speed up those upgrades at half the price.
+
+24
+00:01:17,640 --> 00:01:24,299
+Also, you will be able to get three Halloween special offers at once with “terrible” discounts.
+
+25
+00:01:24,299 --> 00:01:27,679
+Ultra Containers will return to the game for
+the time of the celebration.
+
+26
+00:01:27,679 --> 00:01:30,900
+We'll tell you why they are important in just
+a second.
+
+27
+00:01:33,387 --> 00:01:36,049
+Let's talk about Hornet's Overdrive.
+
+28
+00:01:36,049 --> 00:01:37,909
+We left the radar unchanged.
+
+29
+00:01:37,909 --> 00:01:42,559
+And the ability to ignore the enemy's resists
+and armor has turned into a new status effect
+
+30
+00:01:42,559 --> 00:01:44,729
+Armor-Piercing
+
+31
+00:01:44,729 --> 00:01:47,810
+We changed the way the Hornets Overdrive works.
+
+32
+00:01:47,810 --> 00:01:51,320
+The Armor-Piercing effect is not a permanent
+effect.
+
+33
+00:01:51,320 --> 00:01:54,265
+It can be applied only when you activate the
+overdrive
+
+34
+00:01:54,265 --> 00:01:57,109
+and only on the opponents who are visible.
+
+35
+00:01:57,109 --> 00:02:00,960
+The duration of the effect will be shorter
+than the duration of the overdrive itself.
+
+36
+00:02:00,960 --> 00:02:04,783
+Yes,the radius of the effect application is almost unlimited,
+
+37
+00:02:04,783 --> 00:02:08,419
+the only important factor is that the target must be visible.
+
+38
+00:02:08,419 --> 00:02:10,868
+Plus, the Armor-Piercing effect will be available
+
+39
+00:02:10,869 --> 00:02:12,970
+to your teammates as well.
+
+40
+00:02:12,970 --> 00:02:16,569
+On the other hand,
+the Armor-Piercing effect is a status effect,
+
+41
+00:02:16,569 --> 00:02:20,799
+and you will be able to equip a special augment
+on your hull to protect yourself against it.
+
+42
+00:02:20,799 --> 00:02:25,659
+It will allow players who understand the situation
+on the battlefield better to stand out,
+
+43
+00:02:25,659 --> 00:02:27,534
+and those who played with minimal risk
+
+44
+00:02:27,534 --> 00:02:31,909
+will now lose the ability to easily make the most out of Hornet’s overdrive.
+
+45
+00:02:31,909 --> 00:02:35,825
+In addition to Hornet,
+this status effect can be applied to some turrets
+
+46
+00:02:35,825 --> 00:02:39,840
+if you have the required augments. But there also will be differences.
+
+47
+00:02:39,840 --> 00:02:40,907
+For example,
+
+48
+00:02:40,907 --> 00:02:45,193
+a simple shot with Railgun will be enough to activate the Armor-Piercing effect,
+
+49
+00:02:45,193 --> 00:02:46,712
+but Ricochet, for example,
+
+50
+00:02:46,712 --> 00:02:51,620
+will have to hit the opponent with a ricochet from the wall to activate this effect.
+
+51
+00:02:51,620 --> 00:02:55,997
+In conclusion,
+it will not be possible to give out the effect to everyone easily
+
+52
+00:02:55,997 --> 00:02:58,428
+you will have to try hard to obtain it.
+
+53
+00:02:58,428 --> 00:03:03,760
+You'll need to complete the Halloween special
+missions to get them from Ultra Containers.
+
+54
+00:03:03,829 --> 00:03:08,079
+And yes, all of these new augments are already available in the Ultra Containers,
+
+55
+00:03:08,079 --> 00:03:10,530
+so if you don't want to wait to get your hands on them,
+
+56
+00:03:10,530 --> 00:03:13,199
+then try your luck by buying some right now!
+
+57
+00:03:15,575 --> 00:03:18,012
+Up next, we have an important topic
+
+58
+00:03:18,012 --> 00:03:20,550
+as it will bring some major changes.
+
+59
+00:03:20,550 --> 00:03:24,870
+From November 4th,
+we will try a set of changes right in the game.
+
+60
+00:03:24,870 --> 00:03:28,283
+These changes are designed to increase the
+importance of team gameplay
+
+61
+00:03:28,283 --> 00:03:31,719
+while trying not to change the dynamics of the battle.
+
+62
+00:03:31,719 --> 00:03:33,753
+This test will increase the amount of health
+
+63
+00:03:33,753 --> 00:03:37,750
+and the amount of charge for melee turrets such as Firebird or Isida.
+
+64
+00:03:37,750 --> 00:03:43,891
+We will remove larger maps from the Matchmaking
+system and focus on 6 vs 6 gamemode
+
+65
+00:03:43,891 --> 00:03:47,049
+while reducing the length of the battle to 5 minutes.
+
+66
+00:03:47,049 --> 00:03:48,440
+If all goes as planned,
+
+67
+00:03:48,440 --> 00:03:51,683
+these changes will allow you to spend more time in the battle itself,
+
+68
+00:03:51,683 --> 00:03:54,269
+rather than spending time respawning.
+
+69
+00:03:54,269 --> 00:03:56,689
+The testing will last for 2 weeks.
+
+70
+00:03:56,689 --> 00:04:00,450
+We understand that most of the old players
+will not like the changes.
+
+71
+00:04:00,450 --> 00:04:03,665
+However,
+we ask you to play with it for a few days first,
+
+72
+00:04:03,665 --> 00:04:06,689
+and then, answer the following questions in the comments:
+
+73
+00:04:06,689 --> 00:04:11,560
+Do you think you had less deaths where you
+spawned and were completely useless?
+
+74
+00:04:11,560 --> 00:04:15,680
+How did the benefit of well-timed overdrives
+and drones change?
+
+75
+00:04:15,680 --> 00:04:18,649
+How did the importance of the team gameplay
+change?
+
+76
+00:04:18,649 --> 00:04:21,789
+Could our experiment change your interest
+in the game?
+
+77
+00:04:21,790 --> 00:04:23,428
+We thank you in advance.
+
+78
+00:04:26,200 --> 00:04:28,630
+This Halloween is surely a unique one.
+
+79
+00:04:28,630 --> 00:04:31,660
+Though we may not be able to go trick-or-treating
+in person,
+
+80
+00:04:31,660 --> 00:04:35,970
+our reporters will ensure we'll all still
+have a memorable day here in Tanki.
+
+81
+00:04:35,970 --> 00:04:37,360
+Just in time for the season,
+
+82
+00:04:37,360 --> 00:04:42,588
+the Newspaper has prepared a spooky Halloween special - complete with bone-chilling tales,
+
+83
+00:04:42,588 --> 00:04:44,639
+ 
+light and humorous holiday-themed articles,
+
+84
+00:04:44,639 --> 00:04:48,850
+and of course,
+a handful of tricks and treats!
+
+85
+00:04:48,850 --> 00:04:52,840
+Dive into this seasonal issue right now; we
+hope you enjoy it!
+
+86
+00:04:52,840 --> 00:04:54,576
+The link is in the description.
+
+87
+00:04:56,493 --> 00:04:58,100
+Anyway!
+
+88
+00:04:58,100 --> 00:05:00,814
+The eSports scene is actively growing in Tanki,
+
+89
+00:05:00,814 --> 00:05:04,437
+and there is a pretty good chance that you've read at least one of the many exciting
+
+90
+00:05:04,437 --> 00:05:07,480
+and engaging articles on our TankiSport site;
+
+91
+00:05:07,530 --> 00:05:10,970
+articles crafted by our incredible eSports
+Reporters.
+
+92
+00:05:10,970 --> 00:05:12,290
+Very luckily for you,
+
+93
+00:05:12,290 --> 00:05:17,720
+the thriving eSports News team is now looking to expand with some new blood on their team.
+
+94
+00:05:17,720 --> 00:05:22,436
+Being an eSports Reporter is the perfect opportunity
+to develop and grow your writing skills
+
+95
+00:05:22,436 --> 00:05:28,920
+while producing show-stopping articles,
+all while gaining valuable English and eSports knowledge!
+
+96
+00:05:28,920 --> 00:05:30,570
+So if you think you're up for the job,
+
+97
+00:05:30,570 --> 00:05:36,040
+feel free to apply on the Volunteers Recruitment Portal via the link in the description below!
+
+98
+00:05:36,040 --> 00:05:39,570
+Psst...if you need some extra support on the
+application,
+
+99
+00:05:39,570 --> 00:05:42,380
+we've also got a guide linked below,
+just for you.
+
+100
+00:05:42,380 --> 00:05:45,221
+I'm sure they can't wait to welcome you into
+their team!
+
+101
+00:05:47,360 --> 00:05:50,990
+We hid some secret codes in the past 4 episodes
+of the V-LOG,
+
+102
+00:05:50,990 --> 00:05:53,590
+which you had to find and enter in a special
+form.
+
+103
+00:05:53,590 --> 00:05:54,877
+When judging the results,
+
+104
+00:05:54,877 --> 00:06:00,210
+we took not only the correctness of the answer into account,
+but also how fast you entered them.
+
+105
+00:06:00,210 --> 00:06:02,930
+You can see the list of the winners on your
+screen.
+
+106
+00:06:02,930 --> 00:06:05,000
+The winners are also in the description.
+
+107
+00:06:08,230 --> 00:06:09,613
+Welcome back to Youtuber Digest,
+
+108
+00:06:09,613 --> 00:06:13,710
+our weekly selection of the best TO videos created by players.
+
+109
+00:06:13,710 --> 00:06:15,230
+Rank ups.
+
+110
+00:06:15,230 --> 00:06:16,230
+Everyone has them.
+
+111
+00:06:16,230 --> 00:06:21,480
+But watch Vision TO as he creates for us a
+mega montage of rank ups!
+
+112
+00:06:29,381 --> 00:06:31,920
+Second,
+watch Tanki Elite
+
+113
+00:06:31,920 --> 00:06:36,673
+as he creates a Gold Box montage titled 'Floating in Dreams'.
+
+114
+00:06:46,811 --> 00:06:50,669
+Quick reminder,
+if you want to be featured in a future episode of the V-LOG,
+
+115
+00:06:50,669 --> 00:06:53,687
+then share your videos in the YouTuber Wannabe Form,
+
+116
+00:06:53,687 --> 00:06:55,678
+which can be found in the description.
+
+117
+00:06:58,197 --> 00:06:59,870
+That's all for this week.
+
+118
+00:06:59,870 --> 00:07:01,620
+We will see you next time.
+
+119
+00:07:01,620 --> 00:07:03,370
+But first,
+leave a like,
+
+120
+00:07:03,370 --> 00:07:05,580
+subscribe,
+hit the notification bell,
+
+121
+00:07:05,580 --> 00:07:07,740
+and watch until the Question of the Week.
+
+122
+00:07:07,740 --> 00:07:11,810
+And if you don’t leave a like,
+you will have the same nightmare over and
+
+123
+00:07:11,810 --> 00:07:17,680
+over again one week long: everyone will be
+using Juggernaut except you!
+
+124
+00:07:17,766 --> 00:07:19,138
+Bye!
+
+125
+00:07:26,440 --> 00:07:27,240
+Last time,
+
+126
+00:07:27,240 --> 00:07:30,280
+you had to guess which zone Ares would be destroyed in.
+
+127
+00:07:30,280 --> 00:07:35,140
+The correct answer is: С
+Congratulations to the winners!
+
+128
+00:07:35,140 --> 00:07:36,442
+And here is the next question:
+
+129
+00:07:52,442 --> 00:07:54,442
+Which Wasp will land first?
+
