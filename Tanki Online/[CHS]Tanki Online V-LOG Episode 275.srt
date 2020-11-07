@@ -1,474 +1,468 @@
-1
-00:00:03,629 --> 00:00:06,590
-In today’s episode, we will be wrapping
-up the GAME.
+﻿1
+00:00:00,060 --> 00:00:02,500
+警告：该视频可能会引起光敏性癫痫(PSE)发作
+建议观众酌情考虑
 
 2
-00:00:06,590 --> 00:00:12,507
-We’ll also be kicking off a fresh new Ultra
-Weekend and searching for the final code.
+00:00:02,500 --> 00:00:03,620
+3D坦克周报第275期
 
 3
-00:00:14,217 --> 00:00:16,000
-Hello, tankers.
+00:00:03,629 --> 00:00:06,590
+在今天的节目中
+我们将总结The Game
 
 4
-00:00:16,000 --> 00:00:20,390
-Last Saturday was the fifth and final day
-of our quest - The GAME.
+00:00:06,590 --> 00:00:12,507
+我们还将推出全新的究极的周末
+找寻最后的周报代码
 
 5
-00:00:20,390 --> 00:00:23,619
-We announced the winners on Tuesday, October
-20th.
+00:00:14,217 --> 00:00:16,000
+坦克手们，大家好
 
 6
-00:00:23,619 --> 00:00:27,990
-The grand prize went to the player Scorpion321
-this year.
+00:00:16,000 --> 00:00:20,390
+上周六是第5天
+The Game游戏的最后一天
 
 7
-00:00:27,990 --> 00:00:30,659
-Congratulations; your prize is on the way!
+00:00:20,390 --> 00:00:23,619
+10月20日，我们公布了获胜者名单
 
 8
-00:00:30,659 --> 00:00:34,680
-The players Yarik and KINGS-HERE also placed
-on the podium.
+00:00:23,619 --> 00:00:27,990
+今年的大奖颁发给了玩家Scorpion321
 
 9
-00:00:34,680 --> 00:00:39,640
-You can see all the winners on the Forum by
-clicking on the link in the description.
+00:00:27,990 --> 00:00:30,659
+恭喜你，你的奖品已经发货了！
 
 10
-00:00:39,640 --> 00:00:43,370
-This time we took the mistakes of the previous
-GAME into account.
+00:00:30,659 --> 00:00:34,680
+玩家Yarik和KINGS-HERE也站在领奖台上
 
 11
-00:00:43,370 --> 00:00:45,680
-It was played only on the weekends.
+00:00:34,680 --> 00:00:39,640
+您可以在论坛上看到所有获奖者名单
+链接在视频描述中
 
 12
-00:00:45,680 --> 00:00:50,030
-We tried to maintain a balance of the difficulty
-when creating the questions.
+00:00:39,640 --> 00:00:43,370
+本次活动我们考虑到之前的错误
 
 13
-00:00:50,030 --> 00:00:52,648
-If you have any suggestions for the next version
-of the GAME,
+00:00:43,370 --> 00:00:45,680
+猜谜只在周末进行
 
 14
-00:00:52,648 --> 00:00:55,134
-leave them in the comments under this V-LOG.
+00:00:45,680 --> 00:00:50,030
+我们试图保持题目的难度平衡
 
 15
-00:00:55,230 --> 00:00:58,291
-We will certainly read and take note of them.
+00:00:50,030 --> 00:00:52,648
+如果你对下一次的GAME活动有什么意见
 
 16
-00:01:00,560 --> 00:01:03,120
-The Ultra Weekend just started today.
+00:00:52,648 --> 00:00:55,134
+请在下方的评论中告诉我们
 
 17
-00:01:03,120 --> 00:01:08,920
-All weekend long, you will enjoy the increased
-battle funds and experience.
+00:00:55,230 --> 00:00:58,291
+我们一定会阅读并注意到它们
 
 18
-00:01:08,920 --> 00:01:11,299
-As usual, Coinboxes and Ultra Containers will
-appear in the Shop.
+00:01:00,560 --> 00:01:03,120
+超级周末活动今天才开始
 
 19
-00:01:11,299 --> 00:01:16,649
-You’ll also find a special offer there in
-the Shop, which contains 100 000 crystals,
+00:01:03,120 --> 00:01:08,920
+整个周末，您将享受战斗奖励和经验值
 
 20
-00:01:16,649 --> 00:01:22,490
-50 Ultra Containers, and Coinboxes, all at
-a 30% discount.
+00:01:08,920 --> 00:01:11,299
+和往常一样
+硬币盒和超级容器将出现在现金商店里
 
 21
-00:01:22,490 --> 00:01:25,759
-In addition to this, there will be 5 new special
-missions.
+00:01:11,299 --> 00:01:16,649
+你还可以在商店里找到一个特别优惠
+里面有10万颗水晶
 
 22
-00:01:25,759 --> 00:01:28,036
-They will not only give you rewards,
+00:01:16,649 --> 00:01:22,490
+7折获得50个超级容器，硬币盒
 
 23
-00:01:28,036 --> 00:01:32,170
-but also plenty of bonus stars to finish the challenge faster.
+00:01:22,490 --> 00:01:25,759
+除此之外，还将有5个新的特殊任务
 
 24
-00:01:34,055 --> 00:01:38,369
-A week ago, a lot of you were asking us: “Where
-is the V-LOG?”.
+00:01:25,759 --> 00:01:28,036
+他们不仅会给您奖励
 
 25
-00:01:38,369 --> 00:01:41,909
-We took a break from the weekly V-LOG episodes
-last Friday.
+00:01:28,036 --> 00:01:32,170
+完成挑战还可以奖励更多的星星
 
 26
-00:01:41,909 --> 00:01:46,799
-Instead, we hosted a livestream where we answered
-the questions you asked us on the forum.
+00:01:34,055 --> 00:01:38,369
+一周之前，很多人问我们“周报哪去了？”
 
 27
-00:01:46,799 --> 00:01:51,360
-Of course, we couldn’t answer all of them,
-but many of the questions were duplicated,
+00:01:38,369 --> 00:01:41,909
+上周五我们从每周的电视节目中休息了一下
 
 28
-00:01:51,360 --> 00:01:54,219
-so we made sure to answer these popular ones.
+00:01:41,909 --> 00:01:46,799
+作为替代，我们举办了一个现场直播
+你可以在论坛上问我们问题
 
 29
-00:01:54,219 --> 00:02:00,439
-Anyway, the livestream lasted two hours, much
-longer than a single episode of the V-LOG.
+00:01:46,799 --> 00:01:51,360
+当然，我们无法全部回答
+很多问题都是重复的
 
 30
-00:02:00,439 --> 00:02:02,740
-Not everyone was able to watch the whole livestream,
+00:01:51,360 --> 00:01:54,219
+所以我们一定要回答这些流行的问题
 
 31
-00:02:02,740 --> 00:02:06,789
-so if you missed something, now’s the perfect time to rewatch it.
+00:01:54,219 --> 00:02:00,439
+不管怎样，直播持续了两个小时
+比一集的周报的时间还要长
 
 32
-00:02:06,789 --> 00:02:10,555
-However, before you leave to watch the livestream,
-a quick reminder:
+00:02:00,439 --> 00:02:02,740
+不是每个人都能看到整个直播
 
 33
-00:02:10,555 --> 00:02:14,220
-we’ve hidden the final secret code somewhere in this V-LOG.
+00:02:02,740 --> 00:02:06,789
+如果你错过了
+现在最好看一下回放
 
 34
-00:02:14,220 --> 00:02:15,105
-If you find it,
+00:02:06,789 --> 00:02:10,555
+不过，在你去看直播之前
+快速提醒：
 
 35
-00:02:15,105 --> 00:02:19,690
-remember to enter it in the special form linked in the description of this video.
+00:02:10,555 --> 00:02:14,220
+我们把最后的密码藏在了本期周报的某个地方
 
 36
-00:02:19,690 --> 00:02:21,852
-Next week, we’ll conclude this contest
+00:02:14,220 --> 00:02:15,105
+如果你找到了
 
 37
-00:02:21,852 --> 00:02:25,115
-and tell you who the most attentive player was...
+00:02:15,105 --> 00:02:19,690
+别忘记通过视频描述中链接的特殊表单
+把代码发给我们
 
 38
-00:02:27,400 --> 00:02:31,527
-Two years has passed since the last edition
-of the TOF Dream Team tournament,
+00:02:19,690 --> 00:02:21,852
+下周，我们将总结周报找代码活动
 
 39
-00:02:31,527 --> 00:02:34,550
-but we brought it back for you in 2020!
+00:02:21,852 --> 00:02:25,115
+宣布最细心的玩家
 
 40
-00:02:34,550 --> 00:02:37,537
-Due to many changes in the game mechanics
-over the years,
+00:02:27,400 --> 00:02:31,527
+距离上一次TOF梦之队锦标赛已经过去两年了
 
 41
-00:02:37,537 --> 00:02:40,360
-the tournament has changed quite a bit.
+00:02:31,527 --> 00:02:34,550
+比赛将在2020年回归！
 
 42
-00:02:40,360 --> 00:02:44,990
-Brand new overdrives and hull augments have
-been added; the mechanics of many turrets,
+00:02:34,550 --> 00:02:37,537
+由于游戏机制的许多变化
+多年来
 
 43
-00:02:44,990 --> 00:02:48,410
-especially close combat turrets, have changed.
+00:02:37,537 --> 00:02:40,360
+比赛环境已经有了很多的变化
 
 44
-00:02:48,410 --> 00:02:50,763
-The tournament unleashed the maps in a new
-way,
+00:02:40,360 --> 00:02:44,990
+全新的超速功能和底盘参数功能
+许多炮塔的机制
 
 45
-00:02:50,763 --> 00:02:54,470
-especially the oldest "Sandbox" in the new MM version.
+00:02:44,990 --> 00:02:48,410
+特别是近战炮塔已经被调整
 
 46
-00:02:54,470 --> 00:02:58,692
-The 8 best clans of the TOF Dream Team tournament
-met in the Playoffs
+00:02:48,410 --> 00:02:50,763
+比赛以一种新的方式改变了新地图
 
 47
-00:02:58,692 --> 00:03:03,300
-and played a set of interesting and intense matches to determine the winner.
+00:02:50,763 --> 00:02:54,470
+例如最经典的高地角斗场匹配赛版就来自TOF
 
 48
-00:03:03,300 --> 00:03:05,625
-Control was a real surprise of this tournament,
+00:02:54,470 --> 00:02:58,692
+将有8支TOF梦之队将相遇季后赛
 
 49
-00:03:05,625 --> 00:03:11,089
-because they beat Eternity in the 1/4 Stage and their another strong opponent, Revenge,
+00:02:58,692 --> 00:03:03,300
+进行一系列有趣而激烈的比赛以确定胜利者
 
 50
-00:03:11,089 --> 00:03:13,998
-who only lost one match in the group stages.
+00:03:03,300 --> 00:03:05,625
+Control是比赛的一匹没骂
 
 51
-00:03:14,110 --> 00:03:19,540
-After three maps and six rounds of the first
-semi-final, the match resulted in a draw;
+00:03:05,625 --> 00:03:11,089
+他们在4分之一小组赛战胜了Eternity
+以及另一支强队Revenge
 
 52
-00:03:19,540 --> 00:03:25,000
-the teams went to play penalty rounds, where
-Control was able to take the lead and win.
+00:03:11,089 --> 00:03:13,998
+他在小组赛中只输了一场比赛
 
 53
-00:03:25,000 --> 00:03:28,020
-The second semifinal match, Team Pointers
-vs.
+00:03:14,110 --> 00:03:19,540
+在第一场半决赛的三张地图和六轮比赛后
+比赛结果是平局：
 
 54
-00:03:28,020 --> 00:03:30,680
-LaWs, was also played on three maps.
+00:03:19,540 --> 00:03:25,000
+两支战队进行了点球大战，在点球大战中
+Control取得了领先并取得了胜利
 
 55
-00:03:30,680 --> 00:03:36,780
-Here, Mr.BaHbKa123 and his team, Team Pointers,
-reached the final with ease.
+00:03:25,000 --> 00:03:28,020
+第二场半决赛
+Pointers对战
 
 56
-00:03:36,780 --> 00:03:42,221
-Meanwhile, in the Lower Bracket, Eternity
-was stronger than Can't Stop in the lower grid,
+00:03:28,020 --> 00:03:30,680
+LaWs，比赛同样在三场地图上进行
 
 57
-00:03:42,221 --> 00:03:44,390
-and CoolDown lost to Knockout.
+00:03:30,680 --> 00:03:36,780
+在这里，BaHbKa123和他的战队
+轻松进入决赛
 
 58
-00:03:44,470 --> 00:03:48,975
-Then, in the Lower Bracket Semi-Finals, Eternity
-defeated LaWs,
+00:03:36,780 --> 00:03:42,221
+与此同时，在决赛第二组中
+Can't Stop不敌Eternity
 
 59
-00:03:48,975 --> 00:03:55,320
-and Knockout made another sensation by
-winning against Revenge with a score of 3:2.
+00:03:42,221 --> 00:03:44,390
+CoolDown输给了Knockout
 
 60
-00:03:55,320 --> 00:03:57,905
-The most important matches still remained
+00:03:44,470 --> 00:03:48,975
+在决赛第二组中
+Eternity打败LaWs
 
 61
-00:03:57,905 --> 00:04:02,936
-In the pre-Finals, Eternity easily knocked out Knockout without problems,
+00:03:48,975 --> 00:03:55,320
+Knockout以3：2击败Revenge造成轰动
 
 62
-00:04:02,936 --> 00:04:06,144
-guaranteeing themselves a place in the TOP 3.
+00:03:55,320 --> 00:03:57,905
+比赛还没有达到高潮
 
 63
-00:04:06,240 --> 00:04:10,664
-In the Upper Bracket Finals, the clear favorite,
-Team Pointers,
+00:03:57,905 --> 00:04:02,936
+在预赛中，Eternity轻松淘汰Knockout
 
 64
-00:04:10,664 --> 00:04:14,490
-and the dark horse of the tournament, Control, faced off.
+00:04:02,936 --> 00:04:06,144
+暂居第3名
+获得争夺亚军的机会
 
 65
-00:04:14,490 --> 00:04:18,094
-The match was quite close at the beginning,
-but at some point,
+00:04:06,240 --> 00:04:10,664
+在冠军争夺赛中
+备受喜爱的Pointers
 
 66
-00:04:18,094 --> 00:04:21,608
-Team Pointers were able to latch on to some positive momentum
+00:04:10,664 --> 00:04:14,490
+对战黑马Control
 
 67
-00:04:21,608 --> 00:04:24,926
-and take the lead to win with a score of 6:3.
+00:04:14,490 --> 00:04:18,094
+比分一开始非常接近
+随着比赛进行
 
 68
-00:04:24,990 --> 00:04:29,810
-Control moved down to the Lower Bracket Finals,
-where Eternity was waiting for them.
+00:04:18,094 --> 00:04:21,608
+Pointers总能抓住机会
 
 69
-00:04:29,810 --> 00:04:34,243
-In the first two rounds on Barda, Eternity
-took one of them in a close fight
+00:04:21,608 --> 00:04:24,926
+领先并一直扩大战果到6：3
 
 70
-00:04:34,243 --> 00:04:36,724
-and took a 1:0 lead.
+00:04:24,990 --> 00:04:29,810
+Control下降到第二组
+对战Eternity
 
 71
-00:04:36,724 --> 00:04:41,116
-Next up, they played several grueling matchups
-on Bobruisk and Gubhaka,
+00:04:29,810 --> 00:04:34,243
+在广场3C地图的前两轮比赛
+Eternity拿下一局近战比赛
 
 72
-00:04:41,116 --> 00:04:46,220
-and it was a close 3:2 game heading into the fourth map: Red
-Alert.
+00:04:34,243 --> 00:04:36,724
+以1：0保持领先
 
 73
-00:04:46,220 --> 00:04:49,467
-Here, Eternity rallied and took both rounds,
+00:04:36,724 --> 00:04:41,116
+接下来，他们在Bobruisk和Gubhaka进行了
+几场艰苦的对决
 
 74
-00:04:49,467 --> 00:04:55,430
-earning themselves a spot in the Grand Finals against the widely feared clan Team Pointers.
+00:04:41,116 --> 00:04:46,220
+双方势均力敌
+以3：2比分进行第四张地图：红色警戒
 
 75
-00:04:55,430 --> 00:04:59,580
-Heading into the championship match, the heavy
-favorites were Team Pointers.
+00:04:46,220 --> 00:04:49,467
+Eternity重振旗鼓
+赢得了两轮比赛
 
 76
-00:04:59,580 --> 00:05:05,736
-At the very beginning of the tournament, this
-particular team was expected to win the championship crown,
+00:04:49,467 --> 00:04:55,430
+获得了在总决赛中挑战Pointers的机会
 
 77
-00:05:05,736 --> 00:05:10,341
-and as expected, they went through
-the entire grid without a single defeat!
+00:04:55,430 --> 00:04:59,580
+在进入冠军赛前
+玩家最喜欢的战队是Pointers
 
 78
-00:05:10,341 --> 00:05:16,815
-The match opened on Red Alert, where Eternity
-performed brilliantly, winning one and tying the other,
+00:04:59,580 --> 00:05:05,736
+在比赛开始的时候
+他们是某支最有希望夺得冠军的战队
 
 79
-00:05:16,815 --> 00:05:20,040
-starting themselves off with some
-positive momentum.
+00:05:05,736 --> 00:05:10,341
+不负众望，在决赛前N他们仍保持0败绩！
 
 80
-00:05:20,120 --> 00:05:23,797
-Next up, Sandbox MM, a very unpredictable
-map;
+00:05:10,341 --> 00:05:16,815
+比赛从红色警戒开始，Eternity表现出色
+赢了一场又平了一场
 
 81
-00:05:23,797 --> 00:05:29,530
-it was there that Team Pointers took large leads on many of their rivals during
-the tournament.
+00:05:16,815 --> 00:05:20,040
+在开始就保持了积极的劲头
 
 82
-00:05:29,530 --> 00:05:33,482
-Instead, Eternity took the initiative on the
-map lightning fast
+00:05:20,120 --> 00:05:23,797
+下一场在到高地角斗场
+一张不可预测的地图
 
 83
-00:05:33,482 --> 00:05:38,610
-and left no chance for their rivals to catch up, let alone take the
-lead, in both rounds.
+00:05:23,797 --> 00:05:29,530
+正是在地图上，Pointers甩开了很多对手
 
 84
-00:05:38,610 --> 00:05:43,945
-It hit Team Pointers’ morale very hard and
-as the match progressed, unfortunately,
+00:05:29,530 --> 00:05:33,482
+相反，永恒以闪电般的速度在地图上取得主动
 
 85
-00:05:43,945 --> 00:05:49,460
-they were only able to take one round on Bobruisk,
-while Eternity grew increasingly stronger.
+00:05:33,482 --> 00:05:38,610
+在两轮比赛中都没有给对手追赶的机会
+更不用领先了
 
 86
-00:05:49,460 --> 00:05:51,303
-At the end of eight tough rounds,
+00:05:38,610 --> 00:05:43,945
+Pointers的士气被打击
+不幸地是，随着比赛的进行
 
 87
-00:05:51,303 --> 00:05:56,370
-Eternity brought home the TOF Dream title with a score of 4:1!
+00:05:43,945 --> 00:05:49,460
+他们只在Bobruisk上扳回一局
+而Eternity越来越强大
 
 88
-00:05:56,370 --> 00:05:58,600
-Congratulations to the winners.
+00:05:49,460 --> 00:05:51,303
+在八轮艰难的比赛结束后
 
 89
-00:05:58,600 --> 00:06:01,103
-We are waiting for the next tournaments!
+00:05:51,303 --> 00:05:56,370
+Eternity以4：1的比分夺冠
 
 90
-00:06:03,260 --> 00:06:05,413
-Welcome back to Youtuber Digest,
+00:05:56,370 --> 00:05:58,600
+让我们恭喜获胜者
 
 91
-00:06:05,413 --> 00:06:09,697
-our weekly selection of the best TO videos created by players.
+00:05:58,600 --> 00:06:01,103
+让我们期待下一届比赛！
 
 92
-00:06:10,320 --> 00:06:16,720
-First, watch Jordan Tanki as he shows off
-some of his Railgun skills in various battles!
+00:06:03,260 --> 00:06:05,413
+欢迎收看每周精彩视频展播
 
 93
-00:06:30,329 --> 00:06:35,560
-Second, watch Alfi as he creates a super well
-edited goldbox montage!
+00:06:05,413 --> 00:06:09,697
+我们精选每周的最佳视频
 
 94
-00:06:53,827 --> 00:06:57,810
-A quick reminder: if you want to be featured
-in a future episode of the V-LOG,
+00:06:10,320 --> 00:06:16,720
+首先欣赏Jordan在战斗中展示的激光炮技巧！
 
 95
-00:06:57,810 --> 00:07:01,112
-then share your videos in the YouTuber Wannabe form,
+00:06:30,329 --> 00:06:35,560
+再来看看Alfi的精彩金水晶剪辑！
 
 96
-00:07:01,112 --> 00:07:03,635
-which can be found in the videos description.
+00:06:53,827 --> 00:06:57,810
+快速提醒：如果你想在未来的周报中出现
 
 97
-00:07:06,048 --> 00:07:07,699
-That's all for this week.
+00:06:57,810 --> 00:07:01,112
+请通过YouTuber Wannabe表单分享你的视频
 
 98
-00:07:07,699 --> 00:07:13,800
-Don't forget to like the video and hit the
-bell to stay all caught up on our latest videos!
+00:07:01,112 --> 00:07:03,635
+链接在视频描述中
 
 99
-00:07:13,800 --> 00:07:16,920
-And by the way, we have a small spoiler for
-you.
+00:07:06,048 --> 00:07:07,699
+以上就是本期节目的全部内容
 
 100
-00:07:16,920 --> 00:07:17,840
-BOO!
+00:07:07,699 --> 00:07:13,800
+别忘了喜欢这段视频，并随时关注我们的最新视频！
 
 101
-00:07:33,840 --> 00:07:38,320
-Last time, you had to guess which Hopper would
-explode on the mine.
+00:07:13,800 --> 00:07:16,920
+顺带一提，我们为您准备了一个小彩蛋
 
 102
-00:07:38,320 --> 00:07:42,860
-The correct answer is: C
-Congratulations to the winners!
+00:07:16,920 --> 00:07:17,840
+BOO!
+（喝倒彩！）
 
 103
-00:07:42,860 --> 00:07:44,185
-And here is the next question:
+00:07:33,840 --> 00:07:38,320
+上周，你需要猜猜看Hopper将在哪颗地雷上爆炸
 
 104
+00:07:38,320 --> 00:07:42,860
+正确答案是C
+恭喜幸运者！
+
+105
+00:07:42,860 --> 00:07:44,185
+再来关注新问题：
+
+106
 00:08:00,960 --> 00:08:03,680
-In which Zone
-will Ares be destroyed?
+战神将在哪块区域被击毁？
+
+107
+00:08:03,700 --> 00:08:13,620
+M站字幕组
+感谢观看^_^
 
