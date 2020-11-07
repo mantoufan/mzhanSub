@@ -1,575 +1,559 @@
-1
-00:00:02,949 --> 00:00:04,097
-In today’s episode,
+﻿1
+00:00:00,060 --> 00:00:02,500
+警告：该视频可能会引起光敏性癫痫(PSE)发作
+建议观众酌情考虑
 
 2
-00:00:04,097 --> 00:00:07,720
-we will be scaring you with some spooky Halloween festivities.
+00:00:02,500 --> 00:00:02,940
+3D坦克周报第276期
 
 3
-00:00:07,799 --> 00:00:13,357
-We’ll also be launching an unprecedented
-experiment and introducing a new status effect.
+00:00:02,949 --> 00:00:04,097
+在今天的节目中
 
 4
-00:00:15,971 --> 00:00:17,220
-Hello, tankers.
+00:00:04,097 --> 00:00:07,720
+我们会用一些恐怖的万圣节项目吓唬你
 
 5
-00:00:17,220 --> 00:00:21,130
-We missed you badly and are very happy to
-see you all again.
+00:00:07,799 --> 00:00:13,357
+我们还将推出前所未有的实验
+引入一种新的状态效果
 
 6
-00:00:21,130 --> 00:00:23,410
-First off,
-Happy Halloween!
+00:00:15,971 --> 00:00:17,220
+坦克手们，大家好！
 
 7
-00:00:23,410 --> 00:00:27,730
-The festive mode is available on THREE maps,
-which are selected randomly:
+00:00:17,220 --> 00:00:21,130
+我们非常想念你
+很高兴，再见！
 
 8
-00:00:27,730 --> 00:00:35,370
-the Graveyard map in 2015 and 2016 versions and the Highland
-map from 2013.
+00:00:21,130 --> 00:00:23,410
+首先，万圣节快乐！
 
 9
-00:00:35,370 --> 00:00:37,180
-Who asked for old Tanki?
+00:00:23,410 --> 00:00:27,730
+节日模式在三张地图上可用
+随机选择：
 
 10
-00:00:37,180 --> 00:00:38,180
-Here you are.
+00:00:27,730 --> 00:00:35,370
+2015年和2016年的墓地地图
+2013年的高原地图
 
 11
-00:00:38,180 --> 00:00:39,180
-Enjoy!
+00:00:35,370 --> 00:00:37,180
+谁要旧版3D坦克？
 
 12
-00:00:39,180 --> 00:00:42,070
-Of course,
-there will be an increased gold box chance,
+00:00:37,180 --> 00:00:38,180
+给你哦
 
 13
-00:00:42,070 --> 00:00:44,250
-as well as boosted funds and experience.
+00:00:38,180 --> 00:00:39,180
+享受吧！
 
 14
-00:00:44,250 --> 00:00:47,670
-Plus,
-we have prepared a lot of special missions.
+00:00:39,180 --> 00:00:42,070
+当然，金水晶的降落概率会提升
 
 15
-00:00:47,670 --> 00:00:50,920
-As usual,
-you can complete them only for a limited time,
+00:00:42,070 --> 00:00:44,250
+战场奖励和经验值增加
 
 16
-00:00:50,920 --> 00:00:53,820
-but a couple of them will be available for
-just one day.
+00:00:44,250 --> 00:00:47,670
+此外，我们准备了很多特殊任务
 
 17
-00:00:53,820 --> 00:00:56,190
-However,
-the prize will be special.
+00:00:47,670 --> 00:00:50,920
+像往常一样
+您只能在有限时间内完成
 
 18
-00:00:56,190 --> 00:00:59,410
-You will find more information in the official
-announcement.
+00:00:50,920 --> 00:00:53,820
+但其中的两个只能在一天内完成
 
 19
-00:00:59,410 --> 00:01:03,760
-For those who’ve been waiting for sales,
-we are pleased to announce that today,
+00:00:53,820 --> 00:00:56,190
+不过，奖励是特别的
 
 20
-00:01:03,760 --> 00:01:06,990
-we have a 30% discount on any item in the
-Shop,
+00:00:56,190 --> 00:00:59,410
+你可以在官方公告中找到更多信息
 
 21
-00:01:06,990 --> 00:01:10,340
-tomorrow everything in the garage will be
-30% off,
+00:00:59,410 --> 00:01:03,760
+对于那些一直在等待销售的人
+今天我们很高兴地宣布
 
 22
-00:01:10,340 --> 00:01:14,939
-and on Sunday,
-you can micro-upgrade your new equipment at a 30% discount,
+00:01:03,760 --> 00:01:06,990
+商店中的任何物品我们都有30%的折扣
 
 23
-00:01:14,939 --> 00:01:17,640
-and speed up those upgrades at half the price.
+00:01:06,990 --> 00:01:10,340
+明天车库里的东西都会打7折
 
 24
-00:01:17,640 --> 00:01:24,299
-Also, you will be able to get three Halloween special offers at once with “terrible” discounts.
+00:01:10,340 --> 00:01:14,939
+周日，您可以以7折对新设备进行微升级
 
 25
-00:01:24,299 --> 00:01:27,679
-Ultra Containers will return to the game for
-the time of the celebration.
+00:01:14,939 --> 00:01:17,640
+然后以一半的价格加速升级
 
 26
-00:01:27,679 --> 00:01:30,900
-We'll tell you why they are important in just
-a second.
+00:01:17,640 --> 00:01:24,299
+此外，你将能够三个万圣节的特殊优惠
+以及“超级可怕”的折扣
 
 27
-00:01:33,387 --> 00:01:36,049
-Let's talk about Hornet's Overdrive.
+00:01:24,299 --> 00:01:27,679
+究极容器将在庆祝活动期间返回游戏
 
 28
-00:01:36,049 --> 00:01:37,909
-We left the radar unchanged.
+00:01:27,679 --> 00:01:30,900
+我们马上告诉你为什么它们很重要
 
 29
-00:01:37,909 --> 00:01:42,559
-And the ability to ignore the enemy's resists
-and armor has turned into a new status effect
+00:01:33,387 --> 00:01:36,049
+让我们谈谈蜂王的超速
 
 30
-00:01:42,559 --> 00:01:44,729
-Armor-Piercing
+00:01:36,049 --> 00:01:37,909
+我们没有改变雷达
 
 31
-00:01:44,729 --> 00:01:47,810
-We changed the way the Hornets Overdrive works.
+00:01:37,909 --> 00:01:42,559
+忽视敌人的抵抗和护甲能力
+变成了一种新的状态效果
 
 32
-00:01:47,810 --> 00:01:51,320
-The Armor-Piercing effect is not a permanent
-effect.
+00:01:42,559 --> 00:01:44,729
+名称为穿甲
 
 33
-00:01:51,320 --> 00:01:54,265
-It can be applied only when you activate the
-overdrive
+00:01:44,729 --> 00:01:47,810
+我们改变了蜂王超速的工作机制
 
 34
-00:01:54,265 --> 00:01:57,109
-and only on the opponents who are visible.
+00:01:47,810 --> 00:01:51,320
+穿甲效果不是永久效果
 
 35
-00:01:57,109 --> 00:02:00,960
-The duration of the effect will be shorter
-than the duration of the overdrive itself.
+00:01:51,320 --> 00:01:54,265
+只有你激活超速功能时才会生效
 
 36
-00:02:00,960 --> 00:02:04,783
-Yes,the radius of the effect application is almost unlimited,
+00:01:54,265 --> 00:01:57,109
+只针对那些看得见的对手
 
 37
-00:02:04,783 --> 00:02:08,419
-the only important factor is that the target must be visible.
+00:01:57,109 --> 00:02:00,960
+效果的持续时间比超速本身的持续时间更短
 
 38
-00:02:08,419 --> 00:02:10,868
-Plus, the Armor-Piercing effect will be available
+00:02:00,960 --> 00:02:04,783
+是的，效果的作用半径几乎无限
 
 39
-00:02:10,869 --> 00:02:12,970
-to your teammates as well.
+00:02:04,783 --> 00:02:08,419
+唯一重要的因素是目标必须可见
 
 40
-00:02:12,970 --> 00:02:16,569
-On the other hand,
-the Armor-Piercing effect is a status effect,
+00:02:08,419 --> 00:02:10,868
+另外，穿甲效果也可以
 
 41
-00:02:16,569 --> 00:02:20,799
-and you will be able to equip a special augment
-on your hull to protect yourself against it.
+00:02:10,869 --> 00:02:12,970
+对你的队友生效
 
 42
-00:02:20,799 --> 00:02:25,659
-It will allow players who understand the situation
-on the battlefield better to stand out,
+00:02:12,970 --> 00:02:16,569
+另一方面，穿甲效果也是一种状态效果
 
 43
-00:02:25,659 --> 00:02:27,534
-and those who played with minimal risk
+00:02:16,569 --> 00:02:20,799
+你将能够在底盘上装备一种特殊增强装备
+来保护你免受它的伤害
 
 44
-00:02:27,534 --> 00:02:31,909
-will now lose the ability to easily make the most out of Hornet’s overdrive.
+00:02:20,799 --> 00:02:25,659
+这会让那些了解战场的玩家脱颖而出
 
 45
-00:02:31,909 --> 00:02:35,825
-In addition to Hornet,
-this status effect can be applied to some turrets
+00:02:25,659 --> 00:02:27,534
+以及那些胆小的玩家
 
 46
-00:02:35,825 --> 00:02:39,840
-if you have the required augments. But there also will be differences.
+00:02:27,534 --> 00:02:31,909
+现在将失去轻松利用大黄蜂的超速能力
 
 47
-00:02:39,840 --> 00:02:40,907
-For example,
+00:02:31,909 --> 00:02:35,825
+除了蜂王，这种状态效果
+可以应用到一些炮塔上
 
 48
-00:02:40,907 --> 00:02:45,193
-a simple shot with Railgun will be enough to activate the Armor-Piercing effect,
+00:02:35,825 --> 00:02:39,840
+只要你满足必要条件
+稍有不同
 
 49
-00:02:45,193 --> 00:02:46,712
-but Ricochet, for example,
+00:02:39,840 --> 00:02:40,907
+例如
 
 50
-00:02:46,712 --> 00:02:51,620
-will have to hit the opponent with a ricochet from the wall to activate this effect.
+00:02:40,907 --> 00:02:45,193
+以激光炮简单射击
+足以激活穿甲效果
 
 51
-00:02:51,620 --> 00:02:55,997
-In conclusion,
-it will not be possible to give out the effect to everyone easily
+00:02:45,193 --> 00:02:46,712
+但是火龙珠，例如：
 
 52
-00:02:55,997 --> 00:02:58,428
-you will have to try hard to obtain it.
+00:02:46,712 --> 00:02:51,620
+必须让炮弹从墙上弹回
+击中对手才能激活此效果
 
 53
-00:02:58,428 --> 00:03:03,760
-You'll need to complete the Halloween special
-missions to get them from Ultra Containers.
+00:02:51,620 --> 00:02:55,997
+总之，不可能轻易地将效果传达给每个人
 
 54
-00:03:03,829 --> 00:03:08,079
-And yes, all of these new augments are already available in the Ultra Containers,
+00:02:55,997 --> 00:02:58,428
+你必须努力去获得它
 
 55
-00:03:08,079 --> 00:03:10,530
-so if you don't want to wait to get your hands on them,
+00:02:58,428 --> 00:03:03,760
+你需要完成万圣节的特殊任务
+才能从究极容器中得到它们
 
 56
-00:03:10,530 --> 00:03:13,199
-then try your luck by buying some right now!
+00:03:03,829 --> 00:03:08,079
+是的，所以这些新的参数已经在究极容器中提供
 
 57
-00:03:15,575 --> 00:03:18,012
-Up next, we have an important topic
+00:03:08,079 --> 00:03:10,530
+所以如果你不想等待
 
 58
-00:03:18,012 --> 00:03:20,550
-as it will bring some major changes.
+00:03:10,530 --> 00:03:13,199
+可以现在购买究极容器
+激活效果！
 
 59
-00:03:20,550 --> 00:03:24,870
-From November 4th,
-we will try a set of changes right in the game.
+00:03:15,575 --> 00:03:18,012
+接下来，我们有一个重要的话题
 
 60
-00:03:24,870 --> 00:03:28,283
-These changes are designed to increase the
-importance of team gameplay
+00:03:18,012 --> 00:03:20,550
+因为它会带来一些重大的变化
 
 61
-00:03:28,283 --> 00:03:31,719
-while trying not to change the dynamics of the battle.
+00:03:20,550 --> 00:03:24,870
+从11月4日开始，我们将在游戏中
+尝试一系列改变
 
 62
-00:03:31,719 --> 00:03:33,753
-This test will increase the amount of health
+00:03:24,870 --> 00:03:28,283
+这些更改旨在提高团队游戏的重要性
 
 63
-00:03:33,753 --> 00:03:37,750
-and the amount of charge for melee turrets such as Firebird or Isida.
+00:03:28,283 --> 00:03:31,719
+同时尽量不改变战斗的动态
 
 64
-00:03:37,750 --> 00:03:43,891
-We will remove larger maps from the Matchmaking
-system and focus on 6 vs 6 gamemode
+00:03:31,719 --> 00:03:33,753
+这个测试将增加护甲值
 
 65
-00:03:43,891 --> 00:03:47,049
-while reducing the length of the battle to 5 minutes.
+00:03:33,753 --> 00:03:37,750
+以及火焰炮和磁力炮的能量
 
 66
-00:03:47,049 --> 00:03:48,440
-If all goes as planned,
+00:03:37,750 --> 00:03:43,891
+我们将从配对系统中移除更大的地图
+并专注于6对6的游戏模式
 
 67
-00:03:48,440 --> 00:03:51,683
-these changes will allow you to spend more time in the battle itself,
+00:03:43,891 --> 00:03:47,049
+同时把战斗时间缩短5分钟
 
 68
-00:03:51,683 --> 00:03:54,269
-rather than spending time respawning.
+00:03:47,049 --> 00:03:48,440
+如果一切按计划进行
 
 69
-00:03:54,269 --> 00:03:56,689
-The testing will last for 2 weeks.
+00:03:48,440 --> 00:03:51,683
+这些变化会让你在战斗中花更多的时间
 
 70
-00:03:56,689 --> 00:04:00,450
-We understand that most of the old players
-will not like the changes.
+00:03:51,683 --> 00:03:54,269
+而不是花时间重生
 
 71
-00:04:00,450 --> 00:04:03,665
-However,
-we ask you to play with it for a few days first,
+00:03:54,269 --> 00:03:56,689
+测试将持续两周
 
 72
-00:04:03,665 --> 00:04:06,689
-and then, answer the following questions in the comments:
+00:03:56,689 --> 00:04:00,450
+我们知道大多数老玩家不会喜欢这些变化
 
 73
-00:04:06,689 --> 00:04:11,560
-Do you think you had less deaths where you
-spawned and were completely useless?
+00:04:00,450 --> 00:04:03,665
+不过，我们先请你玩几天
 
 74
-00:04:11,560 --> 00:04:15,680
-How did the benefit of well-timed overdrives
-and drones change?
+00:04:03,665 --> 00:04:06,689
+然后，在评论中回答以下问题：
 
 75
-00:04:15,680 --> 00:04:18,649
-How did the importance of the team gameplay
-change?
+00:04:06,689 --> 00:04:11,560
+你觉得你在重生后
+被击毁次数变少，这样完全没用吗？
 
 76
-00:04:18,649 --> 00:04:21,789
-Could our experiment change your interest
-in the game?
+00:04:11,560 --> 00:04:15,680
+您是否从超速和无人机的变化收益了吗？
 
 77
-00:04:21,790 --> 00:04:23,428
-We thank you in advance.
+00:04:15,680 --> 00:04:18,649
+团队游戏的重要性如何变化？
 
 78
-00:04:26,200 --> 00:04:28,630
-This Halloween is surely a unique one.
+00:04:18,649 --> 00:04:21,789
+我们的实验可以改变您对游戏的兴趣吗？
 
 79
-00:04:28,630 --> 00:04:31,660
-Though we may not be able to go trick-or-treating
-in person,
+00:04:21,790 --> 00:04:23,428
+这里先谢谢各位吧
 
 80
-00:04:31,660 --> 00:04:35,970
-our reporters will ensure we'll all still
-have a memorable day here in Tanki.
+00:04:26,200 --> 00:04:28,630
+这个万圣节一定是一个独特的万圣节
 
 81
-00:04:35,970 --> 00:04:37,360
-Just in time for the season,
+00:04:28,630 --> 00:04:31,660
+尽管我们可能无法面对面捣蛋
 
 82
-00:04:37,360 --> 00:04:42,588
-the Newspaper has prepared a spooky Halloween special - complete with bone-chilling tales,
+00:04:31,660 --> 00:04:35,970
+大家在3D坦克仍将有美好的一天
 
 83
-00:04:42,588 --> 00:04:44,639
- 
-light and humorous holiday-themed articles,
+00:04:35,970 --> 00:04:37,360
+正好赶上季节
 
 84
-00:04:44,639 --> 00:04:48,850
-and of course,
-a handful of tricks and treats!
+00:04:37,360 --> 00:04:42,588
+报纸准备了一个恐怖的万圣节特别节目
+带有令人不寒而栗的故事
 
 85
-00:04:48,850 --> 00:04:52,840
-Dive into this seasonal issue right now; we
-hope you enjoy it!
+00:04:42,588 --> 00:04:44,639
+以轻松幽默的假期为主题的文章
 
 86
-00:04:52,840 --> 00:04:54,576
-The link is in the description.
+00:04:44,639 --> 00:04:48,850
+当然，还有一些窍门！
 
 87
-00:04:56,493 --> 00:04:58,100
-Anyway!
+00:04:48,850 --> 00:04:52,840
+立即开始研究这个季节性问题
+我们希望你喜欢它！
 
 88
-00:04:58,100 --> 00:05:00,814
-The eSports scene is actively growing in Tanki,
+00:04:52,840 --> 00:04:54,576
+链接在视频描述中
 
 89
-00:05:00,814 --> 00:05:04,437
-and there is a pretty good chance that you've read at least one of the many exciting
+00:04:56,493 --> 00:04:58,100
+无论如何！
 
 90
-00:05:04,437 --> 00:05:07,480
-and engaging articles on our TankiSport site;
+00:04:58,100 --> 00:05:00,814
+在3D坦克电子竞技领域正在积极发展
 
 91
-00:05:07,530 --> 00:05:10,970
-articles crafted by our incredible eSports
-Reporters.
+00:05:00,814 --> 00:05:04,437
+而且您很可能已读过
+至少许多令人兴奋的内容之一
 
 92
-00:05:10,970 --> 00:05:12,290
-Very luckily for you,
+00:05:04,437 --> 00:05:07,480
+在我们的3D坦克网站上刊登文章
 
 93
-00:05:12,290 --> 00:05:17,720
-the thriving eSports News team is now looking to expand with some new blood on their team.
+00:05:07,530 --> 00:05:10,970
+由我们超棒的电子竞技记者制作的文章
 
 94
-00:05:17,720 --> 00:05:22,436
-Being an eSports Reporter is the perfect opportunity
-to develop and grow your writing skills
+00:05:10,970 --> 00:05:12,290
+非常幸运的是
 
 95
-00:05:22,436 --> 00:05:28,920
-while producing show-stopping articles,
-all while gaining valuable English and eSports knowledge!
+00:05:12,290 --> 00:05:17,720
+蓬勃发展的电子竞技新闻团队现在寻求扩大规模
+为其团队提供新的血液
 
 96
-00:05:28,920 --> 00:05:30,570
-So if you think you're up for the job,
+00:05:17,720 --> 00:05:22,436
+成为电子竞技记者是提升写作技能的绝佳机会
 
 97
-00:05:30,570 --> 00:05:36,040
-feel free to apply on the Volunteers Recruitment Portal via the link in the description below!
+00:05:22,436 --> 00:05:28,920
+在制作引人注目的文章的同时
+还获得了宝贵的英语和电子竞技知识！
 
 98
-00:05:36,040 --> 00:05:39,570
-Psst...if you need some extra support on the
-application,
+00:05:28,920 --> 00:05:30,570
+因此，如果您认为自己适合这份工作
 
 99
-00:05:39,570 --> 00:05:42,380
-we've also got a guide linked below,
-just for you.
+00:05:30,570 --> 00:05:36,040
+请通过以下说明中的链接
+随时在“志愿者招募门户”上进行申请！
 
 100
-00:05:42,380 --> 00:05:45,221
-I'm sure they can't wait to welcome you into
-their team!
+00:05:36,040 --> 00:05:39,570
+附……如果你需要对应用程序的一些额外支持
 
 101
-00:05:47,360 --> 00:05:50,990
-We hid some secret codes in the past 4 episodes
-of the V-LOG,
+00:05:39,570 --> 00:05:42,380
+我们还为您提供了下面的指南链接
 
 102
-00:05:50,990 --> 00:05:53,590
-which you had to find and enter in a special
-form.
+00:05:42,380 --> 00:05:45,221
+我敢肯定他们迫不及待地欢迎您加入他们的团队！
 
 103
-00:05:53,590 --> 00:05:54,877
-When judging the results,
+00:05:47,360 --> 00:05:50,990
+在过去的4期节目中
+我们有一些秘密代码隐藏在周报中
 
 104
-00:05:54,877 --> 00:06:00,210
-we took not only the correctness of the answer into account,
-but also how fast you entered them.
+00:05:50,990 --> 00:05:53,590
+您必须找到和输入特殊代码
 
 105
-00:06:00,210 --> 00:06:02,930
-You can see the list of the winners on your
-screen.
+00:05:53,590 --> 00:05:54,877
+在判断结果时
 
 106
-00:06:02,930 --> 00:06:05,000
-The winners are also in the description.
+00:05:54,877 --> 00:06:00,210
+我们不仅考虑了答案的正确性
+而且考虑了输入的速度
 
 107
-00:06:08,230 --> 00:06:09,613
-Welcome back to Youtuber Digest,
+00:06:00,210 --> 00:06:02,930
+您可以在屏幕上看到获奖者列表
 
 108
-00:06:09,613 --> 00:06:13,710
-our weekly selection of the best TO videos created by players.
+00:06:02,930 --> 00:06:05,000
+获奖者也在说明中
 
 109
-00:06:13,710 --> 00:06:15,230
-Rank ups.
+00:06:08,230 --> 00:06:09,613
+欢迎收看每周3D坦克视频展播
 
 110
-00:06:15,230 --> 00:06:16,230
-Everyone has them.
+00:06:09,613 --> 00:06:13,710
+我们每周精选玩家创作的最佳3D坦克视频
 
 111
-00:06:16,230 --> 00:06:21,480
-But watch Vision TO as he creates for us a
-mega montage of rank ups!
+00:06:13,710 --> 00:06:15,230
+升级视频
 
 112
-00:06:29,381 --> 00:06:31,920
-Second,
-watch Tanki Elite
+00:06:15,230 --> 00:06:16,230
+每个人都经历过
 
 113
-00:06:31,920 --> 00:06:36,673
-as he creates a Gold Box montage titled 'Floating in Dreams'.
+00:06:16,230 --> 00:06:21,480
+但是来看看Vision TO制作的蒙太奇升级视频！
 
 114
-00:06:46,811 --> 00:06:50,669
-Quick reminder,
-if you want to be featured in a future episode of the V-LOG,
+00:06:29,381 --> 00:06:31,920
+再来，看看Tanki Elite
 
 115
-00:06:50,669 --> 00:06:53,687
-then share your videos in the YouTuber Wannabe Form,
+00:06:31,920 --> 00:06:36,673
+他创建了一名为“浮在梦中”的夺金视频剪辑
 
 116
-00:06:53,687 --> 00:06:55,678
-which can be found in the description.
+00:06:46,811 --> 00:06:50,669
+快速提醒，如果您想在以后的周报中出现
 
 117
-00:06:58,197 --> 00:06:59,870
-That's all for this week.
+00:06:50,669 --> 00:06:53,687
+请在3D坦克视频表单中分享您的视频
 
 118
-00:06:59,870 --> 00:07:01,620
-We will see you next time.
+00:06:53,687 --> 00:06:55,678
+链接可以在描述中找到
 
 119
-00:07:01,620 --> 00:07:03,370
-But first,
-leave a like,
+00:06:58,197 --> 00:06:59,870
+以上就是本期节目的全部内容
 
 120
-00:07:03,370 --> 00:07:05,580
-subscribe,
-hit the notification bell,
+00:06:59,870 --> 00:07:01,620
+让我们下周再会
 
 121
-00:07:05,580 --> 00:07:07,740
-and watch until the Question of the Week.
+00:07:01,620 --> 00:07:03,370
+但是首先，请留下一个赞
 
 122
-00:07:07,740 --> 00:07:11,810
-And if you don’t leave a like,
-you will have the same nightmare over and
+00:07:03,370 --> 00:07:05,580
+订阅，并且打开通知开关
 
 123
-00:07:11,810 --> 00:07:17,680
-over again one week long: everyone will be
-using Juggernaut except you!
+00:07:05,580 --> 00:07:07,740
+请继续观看每周猜猜看问题
 
 124
-00:07:17,766 --> 00:07:19,138
-Bye!
+00:07:07,740 --> 00:07:11,810
+如果您不点赞
+可能会经历同样的噩梦哦^_^
 
 125
-00:07:26,440 --> 00:07:27,240
-Last time,
+00:07:11,810 --> 00:07:17,680
+再过一周的时间：
+每个人都能使用剑圣，而你没有，嘿嘿
+（万圣节玩笑）
 
 126
-00:07:27,240 --> 00:07:30,280
-you had to guess which zone Ares would be destroyed in.
+00:07:17,766 --> 00:07:19,138
+再会！
 
 127
-00:07:30,280 --> 00:07:35,140
-The correct answer is: С
-Congratulations to the winners!
+00:07:26,440 --> 00:07:27,240
+上周
 
 128
-00:07:35,140 --> 00:07:36,442
-And here is the next question:
+00:07:27,240 --> 00:07:30,280
+你需要猜猜看战神会被击毁在哪个区域
 
 129
-00:07:52,442 --> 00:07:54,442
-Which Wasp will land first?
+00:07:30,280 --> 00:07:35,140
+正确答案是C
+恭喜幸运者
 
+130
+00:07:35,140 --> 00:07:36,442
+再来关注新问题
+
+131
+00:07:52,442 --> 00:07:55,300
+哪辆黄蜂会先落地？
+
+132
+00:07:55,300 --> 00:08:05,300
+M站字幕组
+感谢观看^_^
